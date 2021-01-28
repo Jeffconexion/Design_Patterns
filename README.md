@@ -18,6 +18,7 @@
 * Strategy.
 * Observer
 
+<b><b>
 
 <p align="center">
   <img src="https://github.com/Jeffconexion/SysAluno/blob/main/sysProject.gif" />
