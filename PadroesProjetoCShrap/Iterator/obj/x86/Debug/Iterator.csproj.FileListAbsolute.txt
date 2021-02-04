@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\bin\Debug\Iterator.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\obj\x86\Debug\Iterator.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Iterator\obj\x86\Debug\Iterator.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Iterator\obj\x86\Debug\Iterator.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Iterator\bin\Debug\Iterator.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Iterator\bin\Debug\Iterator.pdb

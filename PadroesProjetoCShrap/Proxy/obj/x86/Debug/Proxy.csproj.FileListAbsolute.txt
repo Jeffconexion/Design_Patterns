@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Proxy\bin\Debug\Proxy.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Proxy\obj\x86\Debug\Proxy.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Proxy\obj\x86\Debug\Proxy.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Proxy\bin\Debug\Proxy.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Proxy\bin\Debug\Proxy.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Proxy\obj\x86\Debug\Proxy.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Proxy\obj\x86\Debug\Proxy.pdb

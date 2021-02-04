@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\State\bin\Debug\State.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\State\bin\Debug\State.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\State\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\State\obj\x86\Debug\State.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\State\obj\x86\Debug\State.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\State\bin\Debug\State.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\State\bin\Debug\State.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\State\obj\x86\Debug\State.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\State\obj\x86\Debug\State.pdb

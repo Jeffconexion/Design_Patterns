@@ -1,0 +1,17 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Facade\bin\Debug\Facade.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Facade\bin\Debug\Facade.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Facade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Facade\obj\x86\Debug\Facade.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Facade\obj\x86\Debug\Facade.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Facade\bin\Debug\Facade.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Facade\bin\Debug\Facade.pdb
+D:\UFS\Ensino\_20151eii\download\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+D:\UFS\Ensino\_20151eii\download\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb
+H:\UFS\Ensino\_20151eii\download\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+H:\UFS\Ensino\_20151eii\download\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb
+D:\UFS\Ensino\20151eii\download\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+D:\UFS\Ensino\20151eii\download\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb
+D:\UFS\Ensino\_20192esii\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.exe
+D:\UFS\Ensino\_20192esii\PadroesProjeto c#\Facade\obj\x86\Debug\Facade.pdb

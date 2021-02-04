@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Builder\bin\Debug\Builder.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Builder\bin\Debug\Builder.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Builder\obj\x86\Debug\Builder.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Builder\obj\x86\Debug\Builder.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Builder\bin\Debug\Builder.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Builder\bin\Debug\Builder.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Builder\obj\x86\Debug\Builder.pdb

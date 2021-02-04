@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Composite\bin\Debug\Composite.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Composite\bin\Debug\Composite.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Composite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Composite\obj\x86\Debug\Composite.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Composite\obj\x86\Debug\Composite.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Composite\bin\Debug\Composite.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Composite\bin\Debug\Composite.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Composite\obj\x86\Debug\Composite.pdb

@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Memento\bin\Debug\Memento.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Memento\bin\Debug\Memento.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Memento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Memento\obj\x86\Debug\Memento.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Memento\obj\x86\Debug\Memento.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Memento\bin\Debug\Memento.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Memento\bin\Debug\Memento.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Memento\obj\x86\Debug\Memento.pdb

@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Interpreter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Interpreter\obj\x86\Debug\Interpreter.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Interpreter\obj\x86\Debug\Interpreter.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Interpreter\bin\Debug\Interpreter.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Interpreter\obj\x86\Debug\Interpreter.pdb

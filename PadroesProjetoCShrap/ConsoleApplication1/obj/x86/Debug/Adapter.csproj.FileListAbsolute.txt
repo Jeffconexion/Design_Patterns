@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\ConsoleApplication1\bin\Debug\Adapter.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\ConsoleApplication1\bin\Debug\Adapter.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\ConsoleApplication1\obj\x86\Debug\Adapter.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\ConsoleApplication1\obj\x86\Debug\Adapter.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\ConsoleApplication1\bin\Debug\Adapter.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\ConsoleApplication1\bin\Debug\Adapter.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\ConsoleApplication1\obj\x86\Debug\Adapter.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\ConsoleApplication1\obj\x86\Debug\Adapter.pdb

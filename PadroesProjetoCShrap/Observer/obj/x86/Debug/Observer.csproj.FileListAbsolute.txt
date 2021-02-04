@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Observer\bin\Debug\Observer.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Observer\bin\Debug\Observer.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Observer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Observer\obj\x86\Debug\Observer.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Observer\obj\x86\Debug\Observer.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Observer\bin\Debug\Observer.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Observer\bin\Debug\Observer.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Observer\obj\x86\Debug\Observer.pdb

@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Strategy\bin\Debug\Strategy.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Strategy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Strategy\obj\x86\Debug\Strategy.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Strategy\bin\Debug\Strategy.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Strategy\bin\Debug\Strategy.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Strategy\obj\x86\Debug\Strategy.pdb

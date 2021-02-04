@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Flyweight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Flyweight\obj\x86\Debug\Flyweight.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Flyweight\obj\x86\Debug\Flyweight.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Flyweight\bin\Debug\Flyweight.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Flyweight\bin\Debug\Flyweight.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Flyweight\obj\x86\Debug\Flyweight.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Flyweight\obj\x86\Debug\Flyweight.pdb

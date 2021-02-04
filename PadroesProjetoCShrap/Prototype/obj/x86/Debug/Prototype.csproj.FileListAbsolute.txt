@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Prototype\bin\Debug\Prototype.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Prototype\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Prototype\obj\x86\Debug\Prototype.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Prototype\bin\Debug\Prototype.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Prototype\bin\Debug\Prototype.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Prototype\obj\x86\Debug\Prototype.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Prototype\obj\x86\Debug\Prototype.pdb

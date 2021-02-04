@@ -1,0 +1,14 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\obj\x86\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
+D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb

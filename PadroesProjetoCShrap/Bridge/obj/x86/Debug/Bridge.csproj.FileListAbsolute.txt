@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Bridge\bin\Debug\Bridge.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Bridge\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Bridge\obj\x86\Debug\Bridge.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\Bridge\obj\x86\Debug\Bridge.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Bridge\bin\Debug\Bridge.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Bridge\bin\Debug\Bridge.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\Bridge\obj\x86\Debug\Bridge.pdb

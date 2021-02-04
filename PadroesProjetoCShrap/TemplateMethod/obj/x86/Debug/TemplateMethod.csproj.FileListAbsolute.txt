@@ -1,0 +1,9 @@
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\TemplateMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\TemplateMethod\obj\x86\Debug\TemplateMethod.exe
+C:\Users\Marcos Dosea\Desktop\PadroesProjeto\TemplateMethod\obj\x86\Debug\TemplateMethod.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.exe
+D:\UFS\Ensino\_20131esii\download\PadroesProjeto c#\TemplateMethod\obj\x86\Debug\TemplateMethod.pdb
