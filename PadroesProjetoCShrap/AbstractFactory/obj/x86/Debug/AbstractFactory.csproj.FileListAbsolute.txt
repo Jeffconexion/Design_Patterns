@@ -12,3 +12,4 @@ D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\bin\Debug\Abst
 D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\obj\x86\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
 D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
 D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
+D:\05_GitHub\Design_Patterns\PadroesProjetoCShrap\AbstractFactory\obj\x86\Debug\AbstractFactory.csprojAssemblyReference.cache

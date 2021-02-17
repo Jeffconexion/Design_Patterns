@@ -32,6 +32,11 @@ namespace Abstract.RealWorld
 
             world.RunFoodChain();
 
+            //Asia
+
+            ContinentFactory asia = new AsiaFactory();
+            world = new AnimalWorld(asia);
+            world.RunFoodChain();
 
             // Wait for user input
 
@@ -81,6 +86,19 @@ namespace Abstract.RealWorld
         public override Carnivore CreateCarnivore()
         {
             return new Wolf();
+        }
+    }
+
+    internal class AsiaFactory : ContinentFactory
+    {
+        public override Carnivore CreateCarnivore()
+        {
+            return new UrsoNegro();
+        }
+
+        public override Herbivore CreateHerbivore()
+        {
+            return new Serau();
         }
     }
 
@@ -147,6 +165,19 @@ namespace Abstract.RealWorld
         }
     }
 
+    internal class Serau : Herbivore
+    {
+
+    }
+
+    internal class UrsoNegro : Carnivore
+    {
+        public override void Eat(Herbivore h)
+        {
+            Console.WriteLine(GetType().Name +
+                                         " eats " + h.GetType().Name);
+        }
+    }
 
     /// <summary>
     /// The 'Client' class
@@ -155,6 +186,7 @@ namespace Abstract.RealWorld
     {
         private readonly Carnivore _carnivore;
         private readonly Herbivore _herbivore;
+        
 
 
         // Constructor
